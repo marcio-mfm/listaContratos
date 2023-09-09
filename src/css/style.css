@@ -1,0 +1,34 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+#header {
+    background: #005CA9;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    padding: 4px;
+}
+
+#buscaCadastro{
+    display: inline-block;
+    width: 100%;
+    padding: 20px;
+
+}
+
+#tituloBusca{
+    text-align: center;
+}
+
+#formBody {
+    padding: 10px;
+}
+
+#theadContrato{
+    background: #005CA9;
+    color: white;
+    text-align: center;
+}
