@@ -1,4 +1,4 @@
 *.sql
 *.zip
 *.txt
-.vscode/
+*.php
